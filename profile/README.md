@@ -10,9 +10,9 @@
 
 # 📬 Fontys Internal Post (FIPost)
 
-FIPost is a reliable and efficient opensource internal post website and app for fontys university of applied sciences.
+FIPost is a reliable and efficient opensource internal post website and app for campusses in Fontys university of applied sciences.
 
-Keep in mind that this project is broader than just the FHICT.
+Keep in mind that this project is broader than just the [FHICT](https://fontys.edu/ictprogrammes/).
 
 This project is part of a long term pilot and is supposed to be developed over multiple semesters
 by different groups of 6~ software engineer students. Transferability is therefore a must.
